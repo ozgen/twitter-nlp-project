@@ -2,9 +2,6 @@
 
 Sentiment Analysis And Opinion Mining For Turkish Tweets
 
-Mehmet ÖZGEN
-Bil-711 Project Report
-N14223406
 
 
  
