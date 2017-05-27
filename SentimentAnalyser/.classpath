@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/Ozgen/Documents/nlpJaar/weka-dev-3.7.12.jar" sourcepath="/Users/Ozgen/.m2/repository/nz/ac/waikato/cms/weka/weka-dev/3.7.12/weka-dev-3.7.12-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Ozgen/Documents/nlpJaar/zemberek-cekirdek-2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Ozgen/Documents/nlpJaar/zemberek-tr-2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Ozgen/Documents/nlpJaar/java-cup-0.11a.jar"/>
+	<classpathentry kind="lib" path="/Users/Ozgen/Documents/nlpJaar/pentaho-package-manager-1.0.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
