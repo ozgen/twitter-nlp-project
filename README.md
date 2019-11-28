@@ -10,7 +10,7 @@ Sentiment Analysis And Opinion Mining For Turkish Tweets
 
 I.    INTRODUCTION
 
-   This paper considers the problem of classifying Turkish Sentences and determining whether they are positive or negative. And I use three machine-learning methods (Naive Bayes, Decision Tree, and Support Vector Machines) for testing my analysis with the help of Weka API.
+   This project considers the problem of classifying Turkish Sentences and determining whether they are positive or negative. And I use three machine-learning methods (Naive Bayes, Decision Tree, and Support Vector Machines) for testing my analysis with the help of Weka API.
 
 Twitter Application in Turkey
    Nowadays, Internet is a sine qua none for our life. What happens to us we write on the Internet via social networks like twitter. 
